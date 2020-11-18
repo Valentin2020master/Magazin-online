@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aeee73e0-0228-41f7-bf16-21b0fbb4cd12" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/005cd802-eeee-4e2e-b94c-5726f4ec603b.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/005cd802-eeee-4e2e-b94c-5726f4ec603b/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ishop2.loc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/controllers/AppController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/controllers/CartController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/controllers/CurrencyController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/controllers/MainController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/controllers/ProductController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/controllers/SearchController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/models/AppModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/models/Breadcrumbs.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/models/Cart.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/models/Product.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/Cart/cart_modal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/Category/view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/Main/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/Product/view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/Search/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/layouts/default.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/layouts/watches.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/widgets/currency/Currency.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/widgets/currency/currency_tpl/currency.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/widgets/menu/Menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/widgets/menu/menu_tpl/menu_tpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/config_db.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/init.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/params.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/routes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/flexslider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/memenu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/errors/404.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/errors/dev.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/errors/images/404.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/errors/prod.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BreeSerif-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/Lato-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/Lora-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/Muli-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/Philosopher-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/abt-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/abt-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/abt-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bnr-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bnr-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bnr-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/brand_no_image.jpg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/c-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/c-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/c-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/cart-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/cart-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/cart-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/crossword.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/no_image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/p-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/p-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/p-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/p-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/p-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/p-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/p-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/p-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/pr-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/pr-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/s-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/s-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/s-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/s-icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/tick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/imagezoom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/jquery-1.11.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/jquery.easydropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/jquery.flexslider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/memenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/responsiveslides.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/simpleCart.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/typeahead.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megamenu/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megamenu/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megamenu/css/ionicons.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megamenu/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megamenu/fonts/ionicons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megamenu/fonts/ionicons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megamenu/fonts/ionicons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megamenu/fonts/ionicons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megamenu/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megamenu/js/megamenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megamenu/js/vendor/jquery-1.12.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megamenu/js/vendor/modernizr-2.8.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megamenu/less/style.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/megamenu/licence.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/menu/menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/0832c1202da8d382318e329a7c133ea0.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/9297fd88a237b4c249515d1022b29f09.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/errors.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/autoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/InstalledVersions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/installed.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ishop/core/App.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ishop/core/Cache.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ishop/core/Db.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ishop/core/ErrorHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ishop/core/Registry.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ishop/core/Router.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ishop/core/TSingletone.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ishop/core/base/Controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ishop/core/base/Model.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ishop/core/base/View.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ishop/core/libs/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ishop/core/license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/ishop/core/rb-mysql.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/public/index.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/ishop/core" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/valitron" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1jpFn4WpjQGEJ720YN2VDVVSyzG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\ishop2.loc\config" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aeee73e0-0228-41f7-bf16-21b0fbb4cd12" name="Default Changelist" comment="" />
+      <created>1604493289337</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604493289337</updated>
+      <workItem from="1604493290382" duration="301000" />
+      <workItem from="1604493604173" duration="1490000" />
+      <workItem from="1604508952498" duration="8222000" />
+      <workItem from="1604556629086" duration="17376000" />
+      <workItem from="1604650914756" duration="2417000" />
+      <workItem from="1604656363166" duration="11783000" />
+      <workItem from="1604696186763" duration="56000" />
+      <workItem from="1604730139371" duration="6545000" />
+      <workItem from="1604752102687" duration="636000" />
+      <workItem from="1604752828049" duration="56000" />
+      <workItem from="1604770512053" duration="2003000" />
+      <workItem from="1604849159961" duration="6019000" />
+      <workItem from="1604947755685" duration="68000" />
+      <workItem from="1604948338844" duration="8477000" />
+      <workItem from="1604987694231" duration="647000" />
+      <workItem from="1604999916290" duration="493000" />
+      <workItem from="1605020934185" duration="10237000" />
+      <workItem from="1605032117209" duration="5796000" />
+      <workItem from="1605080673911" duration="2548000" />
+      <workItem from="1605106187628" duration="10003000" />
+      <workItem from="1605169347340" duration="622000" />
+      <workItem from="1605193561722" duration="17830000" />
+      <workItem from="1605248684241" duration="39805000" />
+      <workItem from="1605333929330" duration="24881000" />
+      <workItem from="1605437563140" duration="2979000" />
+      <workItem from="1605451612441" duration="11671000" />
+      <workItem from="1605507668105" duration="18659000" />
+      <workItem from="1605600971174" duration="13016000" />
+      <workItem from="1605699163339" duration="15206000" />
+      <workItem from="1605720606294" duration="8059000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1012" y="77" width="816" height="729" key="#Intentions" timestamp="1605029176040">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1012" y="77" width="816" height="729" key="#Intentions/0.0.1920.1040@0.0.1920.1040" timestamp="1605029176040" />
+    <state x="666" y="291" key="#Log_Highlighting_(ideolog)" timestamp="1605084997137">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="666" y="291" key="#Log_Highlighting_(ideolog)/0.0.1920.1040@0.0.1920.1040" timestamp="1605084997137" />
+    <state x="920" y="357" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605298041475">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="920" y="357" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605298041475" />
+    <state x="285" y="446" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1604595553277">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="285" y="446" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604595553277" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604950887995">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604950887995" />
+    <state x="177" y="509" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1605706278718">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="177" y="509" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605706278718" />
+    <state x="178" y="553" width="447" height="269" key="ComposerInitDialogKey" timestamp="1604733787903">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="178" y="553" width="447" height="269" key="ComposerInitDialogKey/0.0.1920.1040@0.0.1920.1040" timestamp="1604733787903" />
+    <state x="181" y="429" key="FileChooserDialogImpl" timestamp="1605032062202">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="181" y="429" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605032062202" />
+    <state x="287" y="402" key="NewPhpClassDialog" timestamp="1605455110557">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="287" y="402" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605455110557" />
+    <state x="229" y="538" key="NewPhpFileDialog" timestamp="1605462369606">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="229" y="538" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605462369606" />
+    <state x="68" y="620" key="WebDeployment.AddServerDialog.v.1" timestamp="1605721015840">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="68" y="620" key="WebDeployment.AddServerDialog.v.1/0.0.1920.1040@0.0.1920.1040" timestamp="1605721015840" />
+    <state x="171" y="543" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog" timestamp="1605387944058">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="171" y="543" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605387944058" />
+    <state x="707" y="-2" key="search.everywhere.popup" timestamp="1605028283508">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="707" y="-2" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605028283508" />
+  </component>
+</project>
