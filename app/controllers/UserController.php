@@ -18,6 +18,7 @@ class UserController extends AppController {
                 $user->attributes['password'] = password_hash($user->attributes['password'], PASSWORD_DEFAULT);
                 if($user->save('user')){
                     $_SESSION['success'] = 'Va-ți înregistrat cu succes';
+                    redirect(PATH);
                 }else{
                     $_SESSION['error'] = 'Eroare!';
                 }
@@ -45,7 +46,7 @@ class UserController extends AppController {
 
     public function logoutAction(){
         if(isset($_SESSION['user'])) unset($_SESSION['user']);
-        redirect();
+        redirect(PATH);
     }
 
 }
