@@ -1,0 +1,47 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT magazin (produs,category)>
+<!ATTLIST magazin
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT produs (id)+>
+<!ATTLIST produs
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT category (id)+>
+<!ATTLIST category
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT id ((categorie_id,titlu,descriere,price,status)
+              |(title,description))>
+<!ATTLIST id
+  xmlns CDATA #FIXED ''
+  id CDATA #REQUIRED>
+
+<!ELEMENT categorie_id (#PCDATA)>
+<!ATTLIST categorie_id
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT titlu (#PCDATA)>
+<!ATTLIST titlu
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT descriere (#PCDATA)>
+<!ATTLIST descriere
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT price (#PCDATA)>
+<!ATTLIST price
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT status (#PCDATA)>
+<!ATTLIST status
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT title (#PCDATA)>
+<!ATTLIST title
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT description (#PCDATA)>
+<!ATTLIST description
+  xmlns CDATA #FIXED ''>

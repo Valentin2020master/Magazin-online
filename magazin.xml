@@ -1,0 +1,97 @@
+<?xml version="1.0" ?>
+<magazin>
+   <produs>
+       <id id="1">
+           <categorie_id>2</categorie_id>
+           <titlu>Casio</titlu>
+           <descriere>Casio negru</descriere>
+           <price>300</price>
+           <status>1</status>
+       </id>
+       <id id="2">
+           <categorie_id>3</categorie_id>
+           <titlu>Casio</titlu>
+           <descriere>Casio alb</descriere>
+           <price>400</price>
+           <status>0</status>
+       </id>
+       <id id="3">
+           <categorie_id>5</categorie_id>
+           <titlu>Casio GA</titlu>
+           <descriere>Casio negru</descriere>
+           <price>300</price>
+           <status>1</status>
+       </id>
+       <id id="4">
+           <categorie_id>4</categorie_id>
+           <titlu>Royal London</titlu>
+           <descriere>Royal London negru</descriere>
+           <price>200</price>
+           <status>1</status>
+       </id>
+       <id id="5">
+           <categorie_id>2</categorie_id>
+           <titlu>Royal London</titlu>
+           <descriere>Royal London alb</descriere>
+           <price>100</price>
+           <status>1</status>
+       </id>
+       <id id="6">
+           <categorie_id>1</categorie_id>
+           <titlu>Casio</titlu>
+           <descriere>Casio albastru</descriere>
+           <price>300</price>
+           <status>0</status>
+       </id>
+       <id id="7">
+           <categorie_id>2</categorie_id>
+           <titlu>Citizen</titlu>
+           <descriere>Citizen AT0696-59E </descriere>
+           <price>600</price>
+           <status>1</status>
+       </id>
+       <id id="8">
+           <categorie_id>5</categorie_id>
+           <titlu>Citizen</titlu>
+           <descriere>Citizen AT0696</descriere>
+           <price>100</price>
+           <status>1</status>
+       </id>
+       <id id="9">
+           <categorie_id>4</categorie_id>
+           <titlu>Casio</titlu>
+           <descriere>Casio MQ-24-7BUL</descriere>
+           <price>300</price>
+           <status>1</status>
+       </id>
+       <id id="10">
+           <categorie_id>2</categorie_id>
+           <titlu>Casio</titlu>
+           <descriere>Casio negru</descriere>
+           <price>300</price>
+           <status>1</status>
+       </id>
+   </produs>
+    <category>
+        <id id="1">
+            <title>Men</title>
+            <description>electronice</description>
+        </id>
+        <id id="2">
+            <title>Women</title>
+            <description>mecanice</description>
+        </id>
+        <id id="3">
+            <title>Kids</title>
+            <description>electronice</description>
+        </id>
+        <id id="4">
+            <title>Electronice</title>
+            <description>electronice</description>
+        </id>
+        <id id="5">
+            <title>Mecanice</title>
+            <description>mecanice</description>
+        </id>
+    </category>
+</magazin>

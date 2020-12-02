@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="magazin">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="produs"/>
+        <xs:element ref="category"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="produs">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="id"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="category">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="id"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="id">
+    <xs:complexType>
+      <xs:choice>
+        <xs:sequence>
+          <xs:element ref="title"/>
+          <xs:element ref="description"/>
+        </xs:sequence>
+        <xs:sequence>
+          <xs:element ref="categorie_id"/>
+          <xs:element ref="titlu"/>
+          <xs:element ref="descriere"/>
+          <xs:element ref="price"/>
+          <xs:element ref="status"/>
+        </xs:sequence>
+      </xs:choice>
+      <xs:attribute name="id" use="required" type="xs:integer"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="title" type="xs:NCName"/>
+  <xs:element name="description" type="xs:NCName"/>
+  <xs:element name="categorie_id" type="xs:integer"/>
+  <xs:element name="titlu" type="xs:string"/>
+  <xs:element name="descriere" type="xs:string"/>
+  <xs:element name="price" type="xs:integer"/>
+  <xs:element name="status" type="xs:integer"/>
+</xs:schema>
