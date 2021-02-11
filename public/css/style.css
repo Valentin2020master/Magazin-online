@@ -1046,7 +1046,7 @@ a.mask {
 	line-height: 27px;
 	color: #555555;
 	cursor: pointer;
-	text-transform: capitalize;
+	/*text-transform: capitalize;*/
 	font-weight: normal;
 	margin-top: 0;
 }
@@ -3072,7 +3072,7 @@ ul.tag-men {
 }
 
 .quantity{
-	margin-top: 3em;
+	margin-top: 1.5em;
 	margin-right: 10px;
 	float: left;
 }
@@ -3205,4 +3205,21 @@ form .has-error .form-control{
 	right: 10px;
 	top: 25px;
 }
-
+/*stiluri filtre*/
+.preloader{
+	position:fixed;
+	top:0;
+	left:0;
+	right:0;
+	bottom:0;
+	z-index:9999;
+	background-color:#fefefe;
+	opacity: .7;
+	display: none;
+}
+.preloader img{
+	position:relative;
+	left:50%;
+	top:50vh;
+	margin:-100px 0 0 -100px;
+}

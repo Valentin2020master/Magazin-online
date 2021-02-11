@@ -179,7 +179,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <body>
 <div class="wrap">
     <div class="logo">
-        <img src="/errors/images/404.png" alt=""  />
+        <img src="/public/errors/images/404.png" alt=""  />
         <p><a href="<?=PATH;?>">Mergi la pagina principala</a></p>
     </div>
 </div>

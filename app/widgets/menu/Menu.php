@@ -4,6 +4,7 @@ namespace app\widgets\menu;
 
 use ishop\App;
 use ishop\Cache;
+use RedUNIT\Base\Threeway;
 
 class Menu{
 
@@ -89,8 +90,5 @@ class Menu{
         require $this->tpl;
         return ob_get_clean();
     }
-
-
-
 
 }

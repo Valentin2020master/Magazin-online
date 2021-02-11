@@ -1,3 +1,39 @@
+/* Filtru */
+$('body').on('change', '.w_sidebar input', function(){
+    var checked = $('.w_sidebar input:checked'),
+        data = '';
+    checked.each(function () {
+        data += this.value + ',';
+    });
+    if(data){
+        $.ajax({
+            url: location.href,
+            data: {filter: data},
+            type: 'GET',
+            beforeSend: function(){
+                $('.preloader').fadeIn(300, function(){
+                    $('.product-one').hide();
+                });
+            },
+            success: function(res){
+                $('.preloader').delay(500).fadeOut('slow', function(){
+                    $('.product-one').html(res).fadeIn();
+                    var url = location.search.replace(/filter(.+?)(&|$)/g, ''); //$2
+                    var newURL = location.pathname + url + (location.search ? "&" : "?") + "filter=" + data;
+                    newURL = newURL.replace('&&', '&');
+                    newURL = newURL.replace('?&', '?');
+                    history.pushState({}, '', newURL);
+                });
+            },
+            error: function () {
+                alert('Eroare!');
+            }
+        });
+    }else{
+        window.location = location.pathname;
+    }
+});
+
 /* Search */
 var products = new Bloodhound({
     datumTokenizer: Bloodhound.tokenizers.whitespace,
@@ -102,9 +138,6 @@ function clearCart() {
     });
 }
 /*Corzina*/
-
-
-
 
 $('#currency').change(function(){
     window.location = 'currency/change?curr=' + $(this).val();

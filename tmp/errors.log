@@ -1,59 +1,209 @@
-[2020-11-20 00:06:32] Textul erorii:(Class 'Swift_SmtpTransport' not found) | Fisierul: (C:\OpenServer\domains\ishop2.loc\app\models\Order.php) | Coloana: (34)
+[2021-01-05 13:23:22] Textul erorii:(Pagina nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (44)
 -------------
-[2020-11-21 01:03:14] Textul erorii:(Pagina nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (44)
+[2021-01-05 13:23:22] Textul erorii:(Pagina nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (44)
 -------------
-[2020-11-21 01:07:16] Textul erorii:(Pagina nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (44)
+[2021-01-05 13:30:57] Textul erorii:(Pagina nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (44)
 -------------
-[2020-11-23 20:41:34] Textul erorii:(Pagina nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (44)
+[2021-01-05 13:31:20] Textul erorii:(Pagina nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (44)
 -------------
-[2020-11-24 09:22:05] Textul erorii:(Pagina nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (44)
+[2021-01-07 13:09:17] Textul erorii:(Nu sa gasit șablonul admin) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\base\View.php) | Coloana: (45)
 -------------
-[2020-11-24 13:55:39] Textul erorii:(Pagina nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (44)
+[2021-01-07 13:09:17] Textul erorii:(Pagina nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (44)
 -------------
-[2020-11-24 19:39:01] Textul erorii:(Connection could not be established with host smtp.gmail.com :stream_socket_client(): SSL operation failed with code 1. OpenSSL Error messages:
+[2021-01-07 13:09:39] Textul erorii:(Nu sa gasit șablonul admin) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\base\View.php) | Coloana: (45)
+-------------
+[2021-01-07 13:22:04] Textul erorii:(Controlerul app\controllers\OrderController nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (41)
+-------------
+[2021-01-07 13:34:01] Textul erorii:(Controlerul app\controllers\OrderController nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (41)
+-------------
+[2021-01-07 16:53:14] Textul erorii:(Metoda app\controllers\UserController::loginAdminAction nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (38)
+-------------
+[2021-01-07 16:54:31] Textul erorii:(Metoda app\controllers\UserController::loginAdminAction nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (38)
+-------------
+[2021-01-07 16:58:12] Textul erorii:(Metoda app\controllers\UserController::loginAdminAction nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (38)
+-------------
+[2021-01-07 16:58:13] Textul erorii:(Metoda app\controllers\UserController::loginAdminAction nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (38)
+-------------
+[2021-01-07 16:58:14] Textul erorii:(Metoda app\controllers\UserController::loginAdminAction nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (38)
+-------------
+[2021-01-07 16:58:15] Textul erorii:(Metoda app\controllers\UserController::loginAdminAction nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (38)
+-------------
+[2021-01-07 17:12:21] Textul erorii:(Metoda app\controllers\UserController::loginAdminAction nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (38)
+-------------
+[2021-01-07 17:12:22] Textul erorii:(Metoda app\controllers\UserController::loginAdminAction nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (38)
+-------------
+[2021-01-07 17:18:22] Textul erorii:(Metoda app\controllers\UserController::loginAdminAction nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (38)
+-------------
+[2021-01-07 17:27:42] Textul erorii:(Metoda app\controllers\UserController::loginAdminAction nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (38)
+-------------
+[2021-01-07 17:27:50] Textul erorii:(Metoda app\controllers\UserController::loginAdminAction nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (38)
+-------------
+[2021-01-07 17:41:26] Textul erorii:(Metoda app\controllers\UserController::loginAdminAction nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (38)
+-------------
+[2021-01-07 17:41:28] Textul erorii:(Metoda app\controllers\UserController::loginAdminAction nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (38)
+-------------
+[2021-01-07 17:41:35] Textul erorii:(Metoda app\controllers\UserController::loginAdminAction nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (38)
+-------------
+[2021-01-07 17:41:36] Textul erorii:(Metoda app\controllers\UserController::loginAdminAction nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (38)
+-------------
+[2021-01-07 17:42:01] Textul erorii:(Metoda app\controllers\UserController::loginAdminAction nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (38)
+-------------
+[2021-01-07 17:42:02] Textul erorii:(Pagina nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (44)
+-------------
+[2021-01-07 17:43:47] Textul erorii:(Metoda app\controllers\UserController::loginAdminAction nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (38)
+-------------
+[2021-01-07 17:43:55] Textul erorii:(Controlerul app\controllers\admin\MainController nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (41)
+-------------
+[2021-01-07 17:46:24] Textul erorii:(Metoda app\controllers\UserController::loginAdminAction nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (38)
+-------------
+[2021-01-07 18:26:51] Textul erorii:(Controlerul app\controllers\admin\OrderController nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (38)
+-------------
+[2021-01-07 18:26:57] Textul erorii:(Metoda app\controllers\admin\UserController::indexAction nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (35)
+-------------
+[2021-01-07 18:47:48] Textul erorii:(Controlerul app\controllers\admin\OrderController nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (38)
+-------------
+[2021-01-07 20:04:16] Textul erorii:(Metoda app\controllers\admin\OrderController::viewAction nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (35)
+-------------
+[2021-01-07 20:19:25] Textul erorii:(Metoda app\controllers\admin\OrderController::viewAction nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (35)
+-------------
+[2021-01-07 21:28:46] Textul erorii:(Controlerul app\controllers\admin\ProductController nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (38)
+-------------
+[2021-01-07 21:28:50] Textul erorii:(Metoda app\controllers\admin\UserController::indexAction nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (35)
+-------------
+[2021-01-07 21:28:53] Textul erorii:(Controlerul app\controllers\admin\CategoryController nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (38)
+-------------
+[2021-01-07 22:15:02] Textul erorii:(Controlerul app\controllers\admin\ProductController nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (38)
+-------------
+[2021-01-07 22:15:10] Textul erorii:(Controlerul app\controllers\admin\ProductController nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (38)
+-------------
+[2021-01-07 22:21:59] Textul erorii:(Controlerul app\controllers\admin\ProductController nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (38)
+-------------
+[2021-01-07 22:22:04] Textul erorii:(Metoda app\controllers\admin\UserController::indexAction nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (35)
+-------------
+[2021-01-07 22:22:07] Textul erorii:(Controlerul app\controllers\admin\CategoryController nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (38)
+-------------
+[2021-01-07 22:41:06] Textul erorii:(Nu sa gasit tipulC:\OpenServer\domains\ishop2.loc/app/views/admin\Order/view.php) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\base\View.php) | Coloana: (38)
+-------------
+[2021-01-07 23:13:25] Textul erorii:(SQLSTATE[42000]: Syntax error or access violation: 1066 Not unique table/alias: 'user') | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\rb-mysql.php) | Coloana: (834)
+-------------
+[2021-01-07 23:13:40] Textul erorii:(SQLSTATE[42000]: Syntax error or access violation: 1066 Not unique table/alias: 'user') | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\rb-mysql.php) | Coloana: (834)
+-------------
+[2021-01-07 23:44:22] Textul erorii:(Pagina nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\app\controllers\admin\OrderController.php) | Coloana: (34)
+-------------
+[2021-01-07 23:53:44] Textul erorii:(Connection could not be established with host smtp.gmail.com :stream_socket_client(): SSL operation failed with code 1. OpenSSL Error messages:
 error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php) | Coloana: (269)
 -------------
-[2020-11-24 20:23:01] Textul erorii:(Connection could not be established with host smtp.gmail.com :stream_socket_client(): SSL operation failed with code 1. OpenSSL Error messages:
-error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php) | Coloana: (269)
+[2021-01-08 00:17:40] Textul erorii:(Metoda app\controllers\admin\UserController::editAction nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (35)
 -------------
-[2020-11-24 21:22:16] Textul erorii:(Connection could not be established with host smtp.gmail.com :stream_socket_client(): SSL operation failed with code 1. OpenSSL Error messages:
-error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php) | Coloana: (269)
+[2021-01-08 14:45:29] Textul erorii:(Pagina nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (41)
 -------------
-[2020-11-24 21:25:40] Textul erorii:(Connection could not be established with host smtp.gmail.com :stream_socket_client(): SSL: �������� ���� ������������ �������� ��������� ���������.
-) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php) | Coloana: (269)
+[2021-01-08 15:34:50] Textul erorii:(Controlerul app\controllers\admin\ProductController nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (38)
 -------------
-[2020-11-24 21:26:10] Textul erorii:(Connection could not be established with host smtp.gmail.com :stream_socket_client(): SSL: �������� ���� ������������ �������� ��������� ���������.
-) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php) | Coloana: (269)
+[2021-01-08 15:39:49] Textul erorii:(Metoda app\controllers\admin\UserController::indexAction nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (35)
 -------------
-[2020-11-24 21:26:32] Textul erorii:(Connection could not be established with host smtp.gmail.com :stream_socket_client(): SSL: �������� ���� ������������ �������� ��������� ���������.
-) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php) | Coloana: (269)
+[2021-01-08 15:39:51] Textul erorii:(Controlerul app\controllers\admin\ProductController nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (38)
 -------------
-[2020-11-24 21:27:17] Textul erorii:(Connection could not be established with host smtp.gmail.com :stream_socket_client(): SSL operation failed with code 1. OpenSSL Error messages:
-error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php) | Coloana: (269)
+[2021-01-08 15:39:57] Textul erorii:(Metoda app\controllers\admin\UserController::editAction nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (35)
 -------------
-[2020-11-24 22:06:43] Textul erorii:(Connection could not be established with host smtp-relay.sendinblue.com :stream_socket_client(): SSL: �������� ���� ������������ �������� ��������� ���������.
-) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php) | Coloana: (269)
+[2021-01-08 15:45:42] Textul erorii:(Metoda app\controllers\admin\OrderController::changeAction nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (35)
 -------------
-[2020-11-24 22:09:06] Textul erorii:(Connection could not be established with host smtp-relay.sendinblue.com :stream_socket_client(): SSL: �������� ���� ������������ �������� ��������� ���������.
-) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php) | Coloana: (269)
+[2021-01-08 16:23:58] Textul erorii:(Metoda app\controllers\admin\OrderController::deleteAction nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (35)
 -------------
-[2020-11-24 22:16:29] Textul erorii:(Connection could not be established with host smtp-relay.sendinblue.com :stream_socket_client(): SSL: �������� ���� ������������ �������� ��������� ���������.
-) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php) | Coloana: (269)
+[2021-01-08 16:24:20] Textul erorii:(Metoda app\controllers\admin\OrderController::deleteAction nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (35)
 -------------
-[2020-11-24 22:19:50] Textul erorii:(Connection could not be established with host smtp.gmail.com :stream_socket_client(): SSL operation failed with code 1. OpenSSL Error messages:
-error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php) | Coloana: (269)
+[2021-01-08 16:25:08] Textul erorii:(Pagina nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (41)
 -------------
-[2020-11-24 23:18:50] Textul erorii:(Connection could not be established with host smtp.gmail.com :stream_socket_client(): SSL operation failed with code 1. OpenSSL Error messages:
-error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php) | Coloana: (269)
+[2021-01-08 16:25:34] Textul erorii:(Metoda app\controllers\admin\OrderController::deleteAction nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (35)
 -------------
-[2020-11-30 10:21:04] Textul erorii:(Pagina nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (44)
+[2021-01-08 16:27:07] Textul erorii:(Metoda app\controllers\admin\OrderController::changeAction nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (35)
 -------------
-[2020-12-01 14:59:17] Textul erorii:(Pagina nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (44)
+[2021-01-08 16:27:10] Textul erorii:(Metoda app\controllers\admin\OrderController::deleteAction nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (35)
 -------------
-[2020-12-01 14:59:55] Textul erorii:(Pagina nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (44)
+[2021-01-08 16:31:45] Textul erorii:(Metoda app\controllers\admin\OrderController::deleteAction nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (35)
 -------------
-[2020-12-01 15:01:10] Textul erorii:(Connection could not be established with host smtp.gmail.com :stream_socket_client(): SSL operation failed with code 1. OpenSSL Error messages:
-error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php) | Coloana: (269)
+[2021-01-08 16:34:20] Textul erorii:(Metoda app\controllers\admin\OrderController::deleteAction nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (35)
 -------------
-[2020-12-02 21:54:00] Textul erorii:(Pagina nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (44)
+[2021-01-08 16:34:28] Textul erorii:(Pagina nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (41)
+-------------
+[2021-01-08 16:34:28] Textul erorii:(Pagina nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (41)
+-------------
+[2021-01-08 16:36:47] Textul erorii:(Metoda app\controllers\admin\OrderController::deleteAction nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (35)
+-------------
+[2021-01-08 16:37:07] Textul erorii:(Metoda app\controllers\admin\OrderController::deleteAction nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (35)
+-------------
+[2021-01-08 17:28:58] Textul erorii:(Pagina nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\app\controllers\admin\OrderController.php) | Coloana: (34)
+-------------
+[2021-01-08 17:41:45] Textul erorii:(syntax error, unexpected ''status'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$') | Fisierul: (C:\OpenServer\domains\ishop2.loc\app\controllers\admin\OrderController.php) | Coloana: (48)
+-------------
+[2021-01-08 18:18:43] Textul erorii:(Pagina nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\app\controllers\admin\OrderController.php) | Coloana: (34)
+-------------
+[2021-01-08 18:18:48] Textul erorii:(Pagina nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\app\controllers\admin\OrderController.php) | Coloana: (34)
+-------------
+[2021-01-08 18:19:25] Textul erorii:(Pagina nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\app\controllers\admin\OrderController.php) | Coloana: (34)
+-------------
+[2021-01-26 11:27:30] Textul erorii:(Pagina nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (41)
+-------------
+[2021-01-26 13:20:49] Textul erorii:(Controlerul app\controllers\admin\CategoryController nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (38)
+-------------
+[2021-01-26 13:30:23] Textul erorii:(Metoda app\controllers\admin\CategoryController::editAction nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (35)
+-------------
+[2021-01-26 14:33:32] Textul erorii:(Metoda app\controllers\admin\CategoryController::editAction nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (35)
+-------------
+[2021-01-26 14:37:18] Textul erorii:(Pagina nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (41)
+-------------
+[2021-01-26 14:38:14] Textul erorii:(Metoda app\controllers\admin\CategoryController::editAction nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (35)
+-------------
+[2021-01-26 15:14:39] Textul erorii:(Metoda app\controllers\admin\CategoryController::addAction nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (35)
+-------------
+[2021-01-26 15:38:54] Textul erorii:(Controlerul app\controllers\admin\CacheController nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (38)
+-------------
+[2021-01-26 16:32:51] Textul erorii:(Pagina nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (41)
+-------------
+[2021-01-26 20:10:28] Textul erorii:(Call to undefined method app\models\Category::update()) | Fisierul: (C:\OpenServer\domains\ishop2.loc\app\controllers\admin\CategoryController.php) | Coloana: (67)
+-------------
+[2021-01-26 20:14:33] Textul erorii:(Call to undefined method app\models\Category::update()) | Fisierul: (C:\OpenServer\domains\ishop2.loc\app\controllers\admin\CategoryController.php) | Coloana: (67)
+-------------
+[2021-01-29 10:12:40] Textul erorii:(Pagina nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (41)
+-------------
+[2021-01-29 10:18:50] Textul erorii:(Nu sa gasit tipulC:\OpenServer\domains\ishop2.loc/app/views/admin\User/index.php) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\base\View.php) | Coloana: (38)
+-------------
+[2021-01-29 18:15:39] Textul erorii:(Metoda app\controllers\admin\UserController::addAction nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (35)
+-------------
+[2021-01-29 18:21:07] Textul erorii:(Pagina nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\app\controllers\admin\AppController.php) | Coloana: (29)
+-------------
+[2021-01-29 18:22:12] Textul erorii:(Pagina nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\app\controllers\admin\AppController.php) | Coloana: (29)
+-------------
+[2021-01-29 18:38:26] Textul erorii:(Metoda app\controllers\admin\UserController::addAction nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (35)
+-------------
+[2021-02-01 16:31:07] Textul erorii:(Pagina nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (41)
+-------------
+[2021-02-04 13:23:12] Textul erorii:(Pagina nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (41)
+-------------
+[2021-02-04 14:31:23] Textul erorii:(Metoda app\controllers\admin\ProductController::editAction nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (35)
+-------------
+[2021-02-04 16:05:33] Textul erorii:(SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'alias') | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\rb-mysql.php) | Coloana: (834)
+-------------
+[2021-02-04 16:11:34] Textul erorii:(SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'alias') | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\rb-mysql.php) | Coloana: (834)
+-------------
+[2021-02-04 16:14:32] Textul erorii:(SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'alias') | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\rb-mysql.php) | Coloana: (834)
+-------------
+[2021-02-04 16:20:03] Textul erorii:(SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'alias') | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\rb-mysql.php) | Coloana: (834)
+-------------
+[2021-02-04 16:23:40] Textul erorii:(Pagina nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (41)
+-------------
+[2021-02-09 09:41:22] Textul erorii:(Pagina nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (41)
+-------------
+[2021-02-09 15:27:59] Textul erorii:(Pagina nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (41)
+-------------
+[2021-02-09 15:29:45] Textul erorii:(Pagina nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (41)
+-------------
+[2021-02-09 19:44:01] Textul erorii:(Pagina nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (41)
+-------------
+[2021-02-09 19:45:04] Textul erorii:(Pagina nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (41)
+-------------
+[2021-02-09 19:46:11] Textul erorii:(Pagina nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (41)
+-------------
+[2021-02-09 19:47:58] Textul erorii:(Pagina nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (41)
+-------------
+[2021-02-10 10:39:22] Textul erorii:(Pagina nu sa găsit) | Fisierul: (C:\OpenServer\domains\ishop2.loc\vendor\ishop\core\Router.php) | Coloana: (41)
 -------------
